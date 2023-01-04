@@ -23,6 +23,6 @@
   <a href = "mailto:dev.brunopaixao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-henrique-de-jesus-paixão-19a33a4a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/dev-brunopaixao/dev-brunopaixao/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/dev-brunopaixao/dev-brunopaixao/blob/output/github-contribution-grid-snake.svg)
  
 </div>
