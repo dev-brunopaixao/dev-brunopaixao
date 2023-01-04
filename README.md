@@ -1,4 +1,4 @@
-### Olá Eu sou o Bruno Paixão, apaixonado por programação e tecnologia! 👋
+### Olá Eu sou o Bruno Paixão! 👋
 
 - 🔭 Hoje Trabalho com (Blipchat, Chatbots, Artificial Intelligence, Whatsapp Businnes, Business Chat)
 - 👨‍💻 Principais Linguagens (Java, JavaScript, Python) 
